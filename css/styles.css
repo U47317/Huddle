@@ -1,0 +1,67 @@
+html{
+  height: 100%;
+}
+
+body{
+    background-color: #8A2BE2;
+    background-image: url("../images/bg-desktop.svg");
+    height: 100%;
+    margin: 0;
+    position: relative;
+
+}
+
+button{
+  background-color: white;
+  border-radius: 13px;
+  color: #8A2BE2;
+  font-size: 18px;
+  height: 40px;
+  width: 25%;
+}
+h1{
+  color: white;
+  font-family: 'Poppins', sans-serif;
+  margin-top: 33%;
+  width: 63%;
+}
+
+.illustration-image{
+  width: 70%;
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+}
+
+.left-container{
+  display: inline-block;
+  height: 100%;
+  margin-top: 4%;
+  position: absolute;
+  width: 55%;
+}
+
+.logo{
+  margin-left: 5%;
+  width: 20%;
+}
+
+p{
+  font-family: 'Open Sans', sans-serif;
+  color: white;
+  text-align: left;
+  width: 90%;
+  font-size: 19px;
+}
+
+.right-container{
+  display: inline-block;
+  height: 100%;
+  left: 55%;
+  position: absolute;
+  width: 45%;
+}
